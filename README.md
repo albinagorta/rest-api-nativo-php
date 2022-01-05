@@ -1,1 +1,1 @@
-# platzi-rest-api
+# rest-api

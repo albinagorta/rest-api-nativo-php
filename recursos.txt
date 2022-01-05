@@ -1,0 +1,11 @@
+Códigos de estado HTTP
+httpstatuses.com es una base de datos de códigos de estado HTTP de fácil referencia con sus definiciones y referencias de códigos útiles, todo en un solo lugar. Visite un código de estado individual a través de httpstatuses.com/codeo explore la lista a continuación.
+
+
+https://httpstatuses.com/
+
+
+
+
+estados ejemplos: code
+https://http.cat/
